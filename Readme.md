@@ -4,6 +4,7 @@
 * https://dzone.com/articles/using-cursors-and-for-loops-in-mysql
 * https://dzone.com/articles/how-to-partition-mysql-tables
 * https://www.section.io/engineering-education/strict-type-validation-with-pydantic/
+* https://www.section.io/engineering-education/serverless-functions-faas-with-aws-lambda-and-golang/
 * https://dev.to/bamimoretomi/building-instant-messaging-app-with-flask-socketio-and-fauna-3pj1
 * https://dev.to/bamimoretomi/building-a-telegram-crypto-wallet-management-using-python-and-fauna-245d
 * https://dev.to/bamimoretomi/building-a-natural-language-processing-api-with-fastapi-2e5m
