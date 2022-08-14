@@ -1,3 +1,5 @@
+* https://blog.logrocket.com/interacting-databases-rust-diesel-vs-sqlx/
+* https://reflect.run/articles/introduction-to-chrome-devtools-protocol/
 * https://speedscale.com/2022/04/29/getting-started-with-docker-compose-and-speedscale-cli/
 * https://blog.logrocket.com/concurrency-patterns-golang-waitgroups-goroutines/
 * https://blog.logrocket.com/using-golang-templates/
