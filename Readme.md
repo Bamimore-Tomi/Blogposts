@@ -1,3 +1,4 @@
+* https://reflect.run/articles/accessing-pseudo-elements-in-playwright/
 * https://blog.logrocket.com/interacting-databases-rust-diesel-vs-sqlx/
 * https://reflect.run/articles/introduction-to-chrome-devtools-protocol/
 * https://reflect.run/articles/how-to-run-selenium-tests-inside-a-docker-container/
