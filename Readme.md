@@ -1,3 +1,4 @@
+* https://blog.logrocket.com/exploring-go-mocking-methods-gomock-framework/
 * https://reflect.run/articles/accessing-pseudo-elements-in-playwright/
 * https://blog.logrocket.com/interacting-databases-rust-diesel-vs-sqlx/
 * https://reflect.run/articles/introduction-to-chrome-devtools-protocol/
@@ -13,3 +14,4 @@
 * https://dev.to/bamimoretomi/building-instant-messaging-app-with-flask-socketio-and-fauna-3pj1
 * https://dev.to/bamimoretomi/building-a-telegram-crypto-wallet-management-using-python-and-fauna-245d
 * https://dev.to/bamimoretomi/building-a-natural-language-processing-api-with-fastapi-2e5m
+
